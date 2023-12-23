@@ -1,0 +1,47 @@
+.row {
+  margin-top: 15px;
+}
+
+.top-div {
+  display: flex;
+  justify-content: space-between;
+  height: 5vh;
+  margin: 25px 35px;
+}
+.top-div a {
+  text-decoration: none;
+  color: black;
+  background-color: #f8f9fa;
+  border: 1px solid #5f6368;
+  line-height: 36px;
+  padding: 0 5px;
+}
+.top-div h1 {
+  font-size: 20px;
+  color: #d93025;
+}
+
+.line {
+  border-bottom: 1px solid #ebebeb;
+}
+
+.form-div {
+  margin: 25px 35px;
+}
+
+form label {
+  font-size: 13px;
+}
+form input[type=text] {
+  width: 100%;
+}
+form input[type=submit] {
+  font-size: 13px;
+  height: 30px;
+  color: white;
+  background-color: #4d90fe;
+  border: 1px solid #2f5bb7;
+  padding: 0 12px;
+}
+
+/*# sourceMappingURL=advanced-search-styles.css.map */

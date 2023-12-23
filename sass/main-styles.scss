@@ -3,7 +3,9 @@ $color-backg: #f8f9fa;
 
 .container-fluid{
     align-items: center;
-    height: 90vh;
+    height: 95vh;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .menu{
@@ -43,4 +45,9 @@ form{
         line-height: 36px;
         padding: 0 16px;
     }
+}
+
+img{
+    margin-bottom: 30px;
+    max-height: 100px;
 }
